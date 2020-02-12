@@ -1,0 +1,20 @@
+{
+  "name": "18dz",
+  "version": "1.0.0",
+  "description": "For run server type command:\r ```bash\r node index.js\r ```",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zloyleva-imt/17_1_node.git"
+  },
+  "keywords": [],
+  "author": "corei7",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zloyleva-imt/17_1_node/issues"
+  },
+  "homepage": "https://github.com/zloyleva-imt/17_1_node#readme"
+}
